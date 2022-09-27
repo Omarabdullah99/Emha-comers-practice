@@ -1,0 +1,16 @@
+.shops-container{
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+    width: 80%;
+    margin: auto;
+}
+
+.Product-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.cart-container{
+    background-color: orange;
+    border-radius: 20px;
+    padding: 0px 20px;
+}

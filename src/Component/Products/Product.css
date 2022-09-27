@@ -1,0 +1,18 @@
+.product{
+    border: 1px solid gray;
+    height: 500px;
+    width: 250px;
+    margin: 10px 0px;
+    position: relative;
+}
+.product img{
+    width: 250px;
+}
+.product-btn{
+    background-color: bisque;
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+}
